@@ -1,0 +1,10 @@
+[project]
+name = "screencontrol"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiomqtt>=2.5.1",
+    "asyncio>=4.0.0",
+]
